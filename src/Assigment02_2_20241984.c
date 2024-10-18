@@ -14,6 +14,6 @@ int main() {
 
     // 결과 출력
     printf("종이를 %d번 접어야 원래 면적의 1/100로 줄어듭니다.\n", count);
-
+    printf("수정");
     return 0;
 }
